@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655059624 source:c:\users\mdugarte\pictures\saved pictures\faubricio malcotti\proyecto\bandera\bandera\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
