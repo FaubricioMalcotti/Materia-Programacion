@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654980960 source:c:\users\mdugarte\pictures\saved pictures\faubricio malcotti\novia intentando entender esta mierda\ejemplo 1\cuadrados medios\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
