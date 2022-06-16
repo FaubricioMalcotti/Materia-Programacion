@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655052426 source:c:\users\mdugarte\pictures\saved pictures\faubricio malcotti\proyecto\cajero automatico\cajeroautomatico\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+
