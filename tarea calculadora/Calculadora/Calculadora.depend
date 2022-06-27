@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656301909 source:c:\users\mdugarte\pictures\saved pictures\faubricio malcotti\tarea calculadora\calculadora\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
